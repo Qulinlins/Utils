@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Qulinlin.Network.Dns/Qulinlin.Network.Dns.csproj" />
+  <Project Path="Qulinlin.Network.Ftp/Qulinlin.Network.Ftp.csproj" />
+  <Project Path="Qulinlin.Network.Http/Qulinlin.Network.Http.csproj" />
+  <Project Path="Qulinlin.Network.Mail/Qulinlin.Network.Mail.csproj" />
+  <Project Path="Qulinlin.Network.Sftp/Qulinlin.Network.Sftp.csproj" />
+  <Project Path="Qulinlin.Network.Ssh/Qulinlin.Network.Ssh.csproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Qulinlin.IdentityModel.Extensions.Pkce/Qulinlin.IdentityModel.Extensions.Pkce.csproj" />
+  <Project Path="Qulinlin.IdentityModel.OAuth/Qulinlin.IdentityModel.OAuth.csproj" />
+  <Project Path="Qulinlin.IdentityModel.OpenId/Qulinlin.IdentityModel.OpenId.csproj" />
+  <Project Path="Qulinlin.IdentityModel.Yggdrasil/Qulinlin.IdentityModel.Yggdrasil.csproj" />
+  <Project Path="Qulinlin.IdentityModel.YggdrasilConnect/Qulinlin.IdentityModel.YggdrasilConnect.csproj" />
+</Solution>
