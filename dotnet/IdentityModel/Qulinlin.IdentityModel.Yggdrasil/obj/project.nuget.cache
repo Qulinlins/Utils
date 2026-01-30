@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NrqhT9MYBdM=",
+  "dgSpecHash": "uubLSpecio0=",
   "success": true,
   "projectFilePath": "C:\\Users\\LostInTianyi\\Documents\\GitHub\\Utils\\dotnet\\IdentityModel\\Qulinlin.IdentityModel.Yggdrasil\\Qulinlin.IdentityModel.Yggdrasil.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LostInTianyi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LostInTianyi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
